@@ -96,6 +96,7 @@ useEffect(()=>{
  
 </table>
    </div>
+    <p>design by @tbhcr</p>
     </div>
   );
 }
